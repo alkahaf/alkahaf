@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, ReactJS**
 
-- 💬 Ask me about **c, c++**
+- 💬 Ask me about **c, java, python, ReactJS**
 
 - 📫 How to reach me **alkahafmukadam2@gmail.com**
 
