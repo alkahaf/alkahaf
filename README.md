@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm alkahaf Mukadam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ef7774834e74af390a866ff109dbb03f4cd83b42&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkahaf&label=Profile%20views&color=0e75b6&style=flat" alt="alkahaf" /> </p>
