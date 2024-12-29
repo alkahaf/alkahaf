@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **c, java, python, ReactJS**
-
 - 📫 How to reach me **alkahafmukadam777@gmail.com**
 
 - ⚡ Fun fact **Try do something new**
