@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alkahaf3" target="blank"><img src="https://img.shields.io/twitter/follow/alkahaf3?logo=twitter&style=for-the-badge" alt="alkahaf3" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **c, java, python, ReactJS**
 
