@@ -1,28 +1,95 @@
+# Hi 👋, I'm Alkahaf Mukadam
 
-<h1 align="center">Hi 👋, I'm alkahaf Mukadam</h1>
-<h3 align="center"> A Passionate Developer </h3>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ef7774834e74af390a866ff109dbb03f4cd83b42&rid=giphy.gif&ct=g">
+### 💻 Full-Stack Developer | .NET & C# Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alkahaf&label=Profile%20views&color=0e75b6&style=flat" alt="alkahaf" /> </p>
+I enjoy building applications, understanding how things work behind the scenes, and turning ideas into practical software.
 
-<p align="left"> <a href="https://twitter.com/alkahaf3" target="blank"><img src="https://img.shields.io/twitter/follow/alkahaf3?logo=twitter&style=for-the-badge" alt="alkahaf3" /></a> </p>
+- 🔭 **Currently working on:** A Library Management System
+- 🌱 **Currently learning:** C#, .NET, Spring Boot, REST APIs, and Angular
+- 💡 **Interested in:** Backend development, clean architecture, databases, and problem-solving
+- 🛠️ **Building with:** C#, ASP.NET, Java, Angular, MySQL, and SQL Server
+- 📚 **My approach:** Learn the fundamentals, build projects, and improve through practice
+- 📫 **Explore my work:** [github.com/alkahaf](https://github.com/alkahaf)
 
-- 🌱 I’m currently learning **Web Development**
+---
 
-- 📫 How to reach me **alkahafmukadam777@gmail.com**
+## 🚀 Featured Projects
 
-- ⚡ Fun fact **Try do something new**
+### 📚 [Bookly — Book E-Commerce](https://github.com/alkahaf/Bookly)
+A book e-commerce application built with **Blazor and .NET 8**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alkahaf3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alkahaf3" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alkahaf-mukadam7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkahaf mukadam" height="30" width="40" /></a>
-<a href="https://instagram.com/alkahaf_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alkahaf_m" height="30" width="40" /></a>
+- User authentication and authorization
+- Product and category management
+- Shopping cart and order processing
+
+**Tech:** C# · .NET 8 · Blazor · SQL Server
+
+### 💉 [Dependency Injection](https://github.com/alkahaf/Dependency_injection)
+An ASP.NET MVC project exploring dependency injection, service registration, and constructor injection.
+
+**Tech:** C# · ASP.NET MVC · Dependency Injection
+
+### 📊 [Excel Data Visualization](https://github.com/alkahaf/DynamicDataVisualizationCoffer)
+An ASP.NET MVC project focused on visualizing data using charts.
+
+**Tech:** C# · ASP.NET MVC · Chart.js
+
+### ✍️ [BloggerWeb](https://github.com/alkahaf/BloggerWeb)
+Explore my web development project built with C#.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alkahaf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Alkahaf's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkahaf&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
-  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alkahaf&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
+---
 
+## 🎯 What I'm Working Toward
 
+- Strengthening my C# and .NET fundamentals
+- Building maintainable applications using layered architecture
+- Learning REST API design and database integration
+- Improving my problem-solving and coding skills
+- Building practical projects that solve real-world problems
 
+---
 
+<p align="center">
+  <b>Keep learning. Keep building. Keep improving. 🚀</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
