@@ -3,7 +3,7 @@
 <h3 align="center"> A Passionate Developer </h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ef7774834e74af390a866ff109dbb03f4cd83b42&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alkahaf&label=Profile%20views&color=0e75b6&style=flat" alt="alkahaf" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/alkahaf3" target="blank"><img src="https://img.shields.io/twitter/follow/alkahaf3?logo=twitter&style=for-the-badge" alt="alkahaf3" /></a> </p>
 
